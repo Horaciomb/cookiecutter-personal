@@ -1,0 +1,7 @@
+name: cokiecutter-personal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: C:\Users\Asus\anaconda3\envs\cokiecutter-personal
